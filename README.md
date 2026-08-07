@@ -1,8 +1,3 @@
-### Nathan O'Brien
-**Creative Engineering · AI-Native / Agentic Systems · ex-BuzzFeed Staff · Founder @ Metatoy**
-
-💻 Open to work
-
 I'm a software engineer and founder with 30 years of experience working with companies including BuzzFeed, Target, Best Buy, and Oracle. I work at the seam where design meets engineering, and for the last couple of years I've been building applied AI and agentic systems in production.
 
 **A couple of things I've built + coming soon:**
