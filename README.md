@@ -6,6 +6,7 @@ I'm a software engineer and founder with 30 years of experience working with com
 
 - **[@metatoy/bootstrap-styled](https://www.npmjs.com/package/@metatoy/bootstrap-styled)** — An open-source React + styled-components component library with full Bootstrap 5 parity. MIT licensed, published on npm.
 - **[Sorb](https://metatoy.com/sorb)** ([sorb-* on @metatoy](https://github.com/metatoy)) — Edit a design token in Figma and preview it live in your running React app before you merge. A 100% free, self-hosted Figma-to-React design-token bridge.
+- **[@sorb/tap](https://github.com/metatoy/sorb-tap)** — An open-source MCP server for design tokens: point AI agents at a DTCG file or a Sorb project and they can list, resolve, and trace tokens through real alias chains. MIT licensed.
 - **[@metatoy/woords-lab-app](https://github.com/metatoy/woords-lab-app)** — An open-source project sharing the animation effects used in the woords app.
 
 I'm consulting and taking contract work through [N8+US](https://n8plusus.com), and I'm open to the right full-time fit.
