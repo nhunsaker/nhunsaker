@@ -1,6 +1,6 @@
 ![Banner](github-banner-20260811.png)
 
-I'm a software engineer and founder with 30 years of experience working with companies including BuzzFeed, Target, Best Buy, and BMW. I work at the seam where design meets engineering, and for the last couple of years I've been building applied AI and agentic systems in production.
+I'm a software engineer and founder who works at the seam where design meets engineering — design systems, front-end craft, and, for the last couple of years, applied AI and agentic systems in production.
 
 **A couple of things I've built:**
 
